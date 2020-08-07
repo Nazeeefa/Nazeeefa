@@ -1,4 +1,4 @@
-## Hej
+## Hej 😊
 
 ✨ Pronouns: They/She <br>
 💻 Computational biologist <br>

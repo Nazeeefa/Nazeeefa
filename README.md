@@ -1,4 +1,4 @@
-## Hej från Sverige 😊
+## Hej
 
 ✨ Pronouns: They/She <br>
 💻 Computational biologist <br>

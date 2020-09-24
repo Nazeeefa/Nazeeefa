@@ -5,9 +5,7 @@
   <a href="https://www.linkedin.com/in/nazeefafatima/">LinkedIn</a><br>
   ✨ Pronouns: They/She |
   💻 Computational biologist <br>
-  <br><br>
 </p>
-
 
 🌟 Working on multiple projects that involve: DNA reads, programming, writing, and community building. <br>
 💬 Talk to me about: genomics, your favourite tools/packages, race equity, and mental health. <br>

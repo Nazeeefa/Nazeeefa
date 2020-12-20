@@ -7,6 +7,5 @@
   💻 Computational biologist <br>
 </p>
 
-💬 Talk to me about: cool programming packages and website themes, sequencing technologies, race equity, and mental well-being. <br>
 🌸 Working with my amazing teams for computational biology organisation in [Sweden](https://github.com/RSG-Sweden) 🇸🇪 and [Norway](https://rsg-norway.iscbsc.org) 🇳🇴 <br>
 🌤 Fun fact: I am a [cloudscape photographer](https://www.flickr.com/photos/nazeefafatima/albums/72157630074604590).

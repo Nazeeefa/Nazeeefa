@@ -9,14 +9,10 @@
 🖥 Working with my amazing teams for computational biology organisations in [Sweden](https://github.com/RSG-Sweden) 🇸🇪 & [Norway](https://rsg-norway.iscbsc.org) 🇳🇴 <br>
 💎 Building Nordic Computational Biology platform <Website Coming Soon>
 
+🛠 <h3> Languages/Tools I Use </h3>
 
-
-
-
-**Languages/Tools I Use:**
-
-<p align="center">
-
+<p align="left">
+  
   <div align="center">
   
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
@@ -29,7 +25,9 @@
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png"></code>
 
   </div>
-  </p>
+</p>
+
+📈 <h3> My GitHub Stats </h3> 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nazeeefa&show_icons=t&hide_border=t&theme=radical&count_private=t)
 

@@ -9,7 +9,7 @@
 🖥 Working with my amazing teams for computational biology organisations in [Sweden](https://github.com/RSG-Sweden) 🇸🇪 & [Norway](https://rsg-norway.iscbsc.org) 🇳🇴 <br>
 💎 Building Nordic Computational Biology platform <Website Coming Soon>
 
-🛠 <h3> Languages/Tools I Use </h3>
+<h3> 🛠 Languages/Tools I Use </h3>
 
 <p align="left">
   
@@ -27,7 +27,7 @@
   </div>
 </p>
 
-📈 <h3> My GitHub Stats </h3> 
+<h3> 📈 GitHub Stats </h3> 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nazeeefa&show_icons=t&hide_border=t&theme=radical&count_private=t)
 

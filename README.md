@@ -9,11 +9,11 @@
 🖥 Working with my amazing teams for computational biology organisations in [Sweden](https://github.com/RSG-Sweden) 🇸🇪 & [Norway](https://rsg-norway.iscbsc.org) 🇳🇴 <br>
 💎 Building Nordic Computational Biology platform <Website Coming Soon>
 
-<h3> 🛠 Languages/Tools I Use </h3>
+<h3> 🛠 Languages/Tools I Use: </h3>
 
-<p align="left">
+<p align="center">
   
-  <div align="left">
+  <div align="center">
   
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png"></code>

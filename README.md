@@ -27,7 +27,7 @@
   </div>
   </p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nazeeefa&show_icons=true&hide_border=true&theme=radical&count_private=1)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nazeeefa&show_icons=t&hide_border=t&theme=radical&count_private=t)
 
 <p align="left">
   <b>Connect 🤝</b><br>

@@ -2,9 +2,11 @@
   <h2>Hej! 😊</h2>
 </p>
 
+<p align="center">
 ✨ Pronouns: They/She <br>
 💻 Computational biologist<br> 
 🌸 Working with my amazing teams for computational biology organisations in [Sweden](https://github.com/RSG-Sweden) 🇸🇪 and [Norway](https://rsg-norway.iscbsc.org) 🇳🇴 <br>
+</p>
 
 
 **Languages/Tools I Use:**

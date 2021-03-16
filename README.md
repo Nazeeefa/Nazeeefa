@@ -7,7 +7,7 @@
 ✨ Pronouns: They/She <br>
 🧬 Computational biologist<br> 
 🖥 Working with my amazing teams for computational biology organisations in [Sweden](https://github.com/RSG-Sweden) 🇸🇪 & [Norway](https://rsg-norway.iscbsc.org) 🇳🇴 <br>
-💎 Building Nordic Computational Biology platform <Website Coming Soon>
+💎 Building [Nordic Computational Biology](https://nordic-compbio.iscbsc.org) platform>
 
 <h3> 🛠 Languages/Tools I Use: </h3>
 

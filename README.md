@@ -9,7 +9,7 @@
 🖥 Working with my amazing teams for computational biology organisations in [Sweden](https://github.com/RSG-Sweden) 🇸🇪 & [Norway](https://rsg-norway.iscbsc.org) 🇳🇴 <br>
 💎 Building [Nordic Computational Biology](https://nordic-compbio.iscbsc.org) platform
 
-<h3> 🛠 Languages/Tools I Use: </h3>
+<h3> 🛠 Languages/Tools I Use/Learn: </h3>
 
 <p align="center">
   

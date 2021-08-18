@@ -8,7 +8,7 @@
 🧬 Computational biologist<br> 
 🖥 Building [Nordic Computational Biology](https://rsg-nordics.iscbsc.org) platform; including organisations in [Sweden](https://github.com/RSG-Sweden) 🇸🇪 and [Norway](https://rsg-norway.iscbsc.org) 🇳🇴 <br>
 
-<h3> 🛠 Languages/Tools I Use/Learn: </h3>
+<h3> 🛠 Tools I Use/Learn: </h3>
 
 <p align="center">
   

@@ -5,7 +5,7 @@
 <h3> 📄 About:</h3>
 
 ✨ Pronouns: they/them <br>
-🧬 Computational biologist & Data Manager <br>
+🧬 Computational biologist, data manager <br>
 🌸 Here to learn, help, and support <br>
 🖥 Building [Nordic Computational Biology](https://rsg-nordics.iscbsc.org) platform; including organisations in [Sweden](https://github.com/RSG-Sweden) 🇸🇪 and [Norway](https://rsg-norway.iscbsc.org) 🇳🇴 <br>
 🌤 No matter what, stay kind and be persistent

@@ -8,7 +8,6 @@
 🧬 Computational biologist, data manager <br>
 🌸 Here to learn, help, and support <br>
 🖥 Building [Nordic Computational Biology](https://nordic-compbio.iscbsc.org) platform; including organisations in [Sweden](https://github.com/RSG-Sweden) 🇸🇪 and [Norway](https://rsg-norway.iscbsc.org) 🇳🇴 <br>
-🌤 No matter what, stay kind (to yourself first) and be persistent
 
 <h3> 🛠 Tools I Use/Learn: </h3>
 

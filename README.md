@@ -7,7 +7,7 @@
 ✨ Pronouns: they/them <br>
 🧬 Interests: computational biologist, data management, web development<br>
 🌸 Here to learn, help, and support <br>
-🖥 Building [Nordic Computational Biology](https://nordic-compbio.iscbsc.org) platform; including organisations in [Sweden](https://rsg-sweden.iscbsc.org) 🇸🇪 and [Norway](https://rsg-norway.iscbsc.org) 🇳🇴 <br>
+🖥 Helping to develop [Nordic Computational Biology](https://nordic-compbio.iscbsc.org) platform; including organisations in [Sweden](https://rsg-sweden.iscbsc.org) 🇸🇪 and [Norway](https://rsg-norway.iscbsc.org) 🇳🇴 <br>
 
 <h3> 🛠 Tools I Use/Learn: </h3>
 

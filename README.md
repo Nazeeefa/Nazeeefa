@@ -6,8 +6,10 @@
 
 ✨ Pronouns: they/them <br>
 🧬 Interests: computational biologist, data management, web development<br>
-🌸 Here to learn, help, and support <br>
+🌸 Here (in the world) to listen, learn, help, and support <br>
 🖥 Helping to develop [Nordic Computational Biology](https://nordic-compbio.iscbsc.org) platform; including organisations in [Sweden](https://rsg-sweden.iscbsc.org) 🇸🇪 and [Norway](https://rsg-norway.iscbsc.org) 🇳🇴 <br>
+
+<a href="https://orcid.org/0000-0001-7791-4984" target="_blank"><img alt="ORCID" src="https://img.shields.io/badge/-ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white"></a>
 
 <h3> 🛠 Tools I Use/Learn: </h3>
 
@@ -23,13 +25,19 @@
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/chrome/chrome.png"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 
   </div>
 </p>
 
+<!--- <details>
+<summary>Click for GitHub Stats</summary> </details --->
 <h3> 📈 GitHub Stats </h3> 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nazeeefa&show_icons=t&hide_border=t&theme=radical&count_private=t)
+
 
 <p align="left">
   <b>🌈 Connect </b><br>

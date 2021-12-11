@@ -31,12 +31,13 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nazeeefa&show_icons=t&hide_border=t&theme=radical&count_private=t)
 
-<!---
 <p align="left">
   <b>🌈 Connect </b><br>
+  <!--- 
   <a href="https://twitter.com/_nazeefatima"><img src="https://img.icons8.com/color/50/000000/twitter-squared.png" alt="Twitter"/></a>
-  <a href="https://www.instagram.com/zeeef"><img src="https://img.icons8.com/color/50/000000/instagram-new.png" alt="Instagram"/></a>
   <a href="https://www.linkedin.com/in/nazeefafatima"><img src="https://img.icons8.com/color/50/000000/linkedin.png" alt="linkedin"/></a>
+--->
+  <a href="https://www.instagram.com/zeeef"><img src="https://img.icons8.com/color/50/000000/instagram-new.png" alt="Instagram"/></a>
+  <a href="https://open.spotify.com/user/nazeefa?si=ba050495ba034288"><img src="https://img.icons8.com/color/50/000000/spotify.png" alt="Spotify"/></a>
   <a href="https://www.flickr.com/photos/nazeefafatima"><img src="https://img.icons8.com/color/50/000000/flickr.png" alt="Flickr"/></a>
 </p>
---->

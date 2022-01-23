@@ -1,5 +1,5 @@
 <p align="center">
-  <h2>Hej/Hei! 😊</h2>
+  <h2>Hej!</h2>
 </p>
 
 <h3> 📄 About:</h3>

@@ -6,6 +6,7 @@
 
 ✨ Pronouns: they/them <br>
 🧬 Interests: computational biologist, data management, web development<br>
+🌟 Happy to collaborate on projects involving: long-read sequencing, data management seminars/training, diversity and equality, and science communication in computational biology.
 🌸 Here (in the world) to listen, learn, help, and support <br>
 🖥 Building [Nordic Computational Biology](https://nordic-compbio.iscbsc.org) platform<br>
 

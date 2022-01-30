@@ -6,7 +6,7 @@
 
 ✨ Pronouns: they/them <br>
 🧬 Interests: computational biologist, data management, web development<br>
-🌟 Happy to collaborate on projects involving: long-read sequencing, data management seminars/training, diversity and equality, and science communication in computational biology.
+🌟 Happy to collaborate on projects involving: long-read sequencing, data management seminars/training, diversity and equality, and science communication in computational biology. <br>
 🌸 Here (in the world) to listen, learn, help, and support <br>
 🖥 Building [Nordic Computational Biology](https://nordic-compbio.iscbsc.org) platform<br>
 
@@ -25,6 +25,8 @@
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
+  <code><img height="40" 
+src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/chrome/chrome.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png"></code>

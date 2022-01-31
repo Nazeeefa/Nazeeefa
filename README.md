@@ -4,7 +4,7 @@
 
 <h3> 📄 About:</h3>
 
-✨ Pronouns: they/them <br>
+✨ Pronouns: [they/them](https://pronoun.is/they) <br>
 🧬 Interests: computational biologist, data management, web development<br>
 🌟 Happy to collaborate on projects involving: long-read sequencing, data management seminars/training, diversity and equality, and science communication in computational biology. <br>
 🌸 Here (in the world) to listen, learn, help, and support <br>
@@ -48,7 +48,13 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
   <a href="https://twitter.com/_nazeefatima"><img src="https://img.icons8.com/color/50/000000/twitter-squared.png" alt="Twitter"/></a>
   <a href="https://www.linkedin.com/in/nazeefafatima"><img src="https://img.icons8.com/color/50/000000/linkedin.png" alt="linkedin"/></a>
 --->
-  <a href="https://www.instagram.com/zeeef"><img src="https://img.icons8.com/color/50/000000/instagram-new.png" alt="Instagram"/></a>
-  <a href="https://open.spotify.com/user/nazeefa?si=ba050495ba034288"><img src="https://img.icons8.com/color/50/000000/spotify.png" alt="Spotify"/></a>
-  <a href="https://www.flickr.com/photos/nazeefafatima"><img src="https://img.icons8.com/color/50/000000/flickr.png" alt="Flickr"/></a>
+<table>
+<thead>
+<tr>
+  <th <a href="https://www.instagram.com/zeeef"><img src="https://img.icons8.com/color/50/000000/instagram-new.png" alt="Nazeefa | Instagram"/></a></th>
+  <th <a href="https://open.spotify.com/user/nazeefa?si=ba050495ba034288"><img src="https://img.icons8.com/color/50/000000/spotify.png" alt="Nazeefa | Spotify"/></a></th>
+  <th <a href="https://www.flickr.com/photos/nazeefafatima"><img src="https://img.icons8.com/color/50/000000/flickr.png" alt="Nazeefa | Flickr"/></a></th>
+</table>
+</thead>
+</tr>
 </p>

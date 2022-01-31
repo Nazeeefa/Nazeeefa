@@ -1,5 +1,5 @@
 <p align="center">
-  <h2>Hej!</h2>
+  <h2>Hej!<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 </p>
 
 <h3> 📄 About:</h3>

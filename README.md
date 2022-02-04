@@ -7,7 +7,7 @@
 ✨ Pronouns: [they/them](https://pronoun.is/they) <br>
 🧬 Interests: computational biologist, data management, web development<br>
 🌟 Happy to collaborate on projects involving: topics mentioned above and on left in interests + mental health, event organisation and/or science communication in computational biology. <br>
-🌸 Here (in the world) to listen, learn, help, and support <br>
+🌸 Here to listen, learn, help, and support <br>
 🖥 Building [Nordic Computational Biology](https://nordic-compbio.iscbsc.org) platform<br>
 
 <a href="https://orcid.org/0000-0001-7791-4984" target="_blank"><img alt="ORCID" src="https://img.shields.io/badge/-ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white"></a>

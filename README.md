@@ -5,7 +5,7 @@
 <h3> 📄 About:</h3>
 
 ✨ Pronouns: [they/them](https://pronoun.is/they) <br>
-🧬 Interests: see bio on left.
+🧬 Interests and open for collaboration on: see bio on left. <br>
 🌸 Here to listen, learn, help, and support <br>
 🖥 Building [Nordic Computational Biology](https://nordic-compbio.iscbsc.org) platform<br>
 

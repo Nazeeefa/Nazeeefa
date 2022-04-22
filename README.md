@@ -35,11 +35,11 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 </p>
 
 <!--- <details>
-<summary>Click for GitHub Stats</summary> </details --->
+<summary>Click for GitHub Stats</summary> </details
 <h3> 📈 GitHub Stats </h3> 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nazeeefa&show_icons=t&hide_border=t&theme=radical&count_private=t)
-
+ --->
 
 <p align="left">
   <b>🌈 Connect </b><br>

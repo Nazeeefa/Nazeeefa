@@ -5,7 +5,7 @@
 <h3> 📄 About:</h3>
 
 ✨ Pronouns: [they/them](https://pronoun.is/they) <br>
-🧬 Interests and open for collaboration on: see bio on left. <br>
+🧬 Interests (for learning, and collaboration on): see bio on left. <br>
 🌍 Here to listen, learn, and support <br>
 🖥 Building [Nordic Computational Biology](https://nordic-compbio.iscbsc.org) platform<br>
 💚 Hobbies: Hiking 🏔, sports ⚽️, and games 🎮

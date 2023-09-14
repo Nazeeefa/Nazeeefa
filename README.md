@@ -41,13 +41,11 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nazeeefa&show_icons=t&hide_border=t&theme=radical&count_private=t)
  --->
-
+  <!--- 
 <p align="left">
   <b>🌈 Connect </b><br>
-  <!--- 
   <a href="https://twitter.com/_nazeefatima"><img src="https://img.icons8.com/color/50/000000/twitter-squared.png" alt="Twitter"/></a>
   <a href="https://www.linkedin.com/in/nazeefafatima"><img src="https://img.icons8.com/color/50/000000/linkedin.png" alt="linkedin"/></a>
---->
 <table>
 <thead>
 <tr>
@@ -58,3 +56,4 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 </thead>
 </tr>
 </p>
+--->

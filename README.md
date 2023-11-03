@@ -7,7 +7,7 @@
 ✨ Pronouns: [they/them](https://pronoun.is/they) <br>
 🧬 Interests (for learning, and collaboration on): see bio on left. <br>
 🌍 Here to listen, learn, and support <br>
-🖥 Building [Nordic Computational Biology](https://nordic-compbio.iscbsc.org) platform<br>
+🖥 Building [Nordic Computational Biology](https://nordic-compbio.org)<br>
 💚 Hobbies: Hiking 🏔, sports ⚽️, and games 🎮
 
 <a href="https://orcid.org/0000-0001-7791-4984" target="_blank"><img alt="ORCID" src="https://img.shields.io/badge/-ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white"></a>

@@ -49,7 +49,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
   <th> <a href="https://www.twitter.com/_nazeefatima"><img src="https://img.icons8.com/color/50/000000/twitter-squared.png" alt="Twitter"/></a></th>
   <th> <a href="https://www.linkedin.com/in/nazeefafatima"><img src="https://img.icons8.com/color/50/000000/linkedin.png" alt="linkedin"/></a></th>
   <th> <a href="https://www.instagram.com/zeeef"><img src="https://img.icons8.com/color/50/000000/instagram-new.png" alt="Instagram"/></a></th>
-  <th> <a href="open.spotify.com/user/nazeefa"><img src="https://img.icons8.com/color/50/000000/spotify.png" alt="Spotify"/></a></th>
+  <th> <a href="https://open.spotify.com/user/nazeefa"><img src="https://img.icons8.com/color/50/000000/spotify.png" alt="Spotify"/></a></th>
   <th> <a href="https://www.flickr.com/photos/nazeefafatima"><img src="https://img.icons8.com/color/50/000000/flickr.png" alt="Flickr"/></a></th>
 </tr>
 </table>

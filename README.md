@@ -4,7 +4,7 @@
 
 <h3> 📄 About:</h3>
 
-✨ Interests: See bio on left.
+✨ Interests: See bio on left. <br>
 🌍 Here to listen, learn, and support <br>
 🖥 Building [Nordic Computational Biology](https://nordic-compbio.org)<br>
 💚 Hobbies: Hiking 🏔, sports ⚽️, and games 🎮

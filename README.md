@@ -4,6 +4,7 @@
 
 <h3> 📄 About:</h3>
 
+✨ Interests: See bio on left.
 🌍 Here to listen, learn, and support <br>
 🖥 Building [Nordic Computational Biology](https://nordic-compbio.org)<br>
 💚 Hobbies: Hiking 🏔, sports ⚽️, and games 🎮
@@ -41,6 +42,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
  --->
 <p align="left">
   <b>🌈 Connect </b><br>
+  See bio on left to connect via Twitter, LinkedIn, and Instagram.
 </p>
 <table>
 <tr>

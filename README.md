@@ -43,7 +43,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
  --->
 <p align="left">
   <b>🌈 Connect </b><br>
-  See bio on left to connect via Twitter, LinkedIn, and Instagram.
+  See bio on left to connect via social media.
 </p>
 <table>
 <tr>

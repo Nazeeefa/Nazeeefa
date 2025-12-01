@@ -7,7 +7,7 @@
 ✨ Interests: See bio on left. <br>
 🖥 Building [Nordic Computational Biology](https://nordic-compbio.org)<br>
 🎮 Games I contributed to: [Smile! With Ropes](https://globalgamejam.org/games/2024/smile-ropes-2-0), [Aliens, Dinosaurs, and Mirrors](https://laourino.itch.io/aliens-dinosaurs-and-mirrors) <br>
-💚 Hobbies: [photography](https://www.flickr.com/photos/nazeefafatima) 📷, hiking 🏔, climbing/bouldering 🧗🏽‍♀️, art (digital such as pixel, and embroidery), and games 🎮 <br>
+💚 Hobbies: [photography](https://www.flickr.com/photos/nazeefafatima) 📷, hiking 🏔, climbing/bouldering 🧗🏽‍♀️, and art (such as pixel art, and embroidery) <br>
 🌍 Here to listen/read, learn, and support. <br>
 
 <a href="https://orcid.org/0000-0001-7791-4984" target="_blank"><img alt="ORCID" src="https://img.shields.io/badge/-ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white"></a>
